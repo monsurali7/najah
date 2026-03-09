@@ -2,9 +2,11 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Najah — Career Community',
-  description:
-    'Structured guidance for ambitious young professionals — helping you navigate corporate life with clarity, real skill, and values that don\'t get left at the door.',
+  title: 'Najah',
+  description: 'Your career community',
+  icons: {
+    icon: '/treelogo.png',
+  },
 };
 
 export default function RootLayout({
