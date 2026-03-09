@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Najah',
   description: 'Your career community',
   icons: {
-    icon: '/treelogo.png',
+    icon: '/favicon.png',
   },
 };
 
